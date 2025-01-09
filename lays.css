@@ -1,0 +1,223 @@
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:gray;
+    color: white;
+    margin-top: 20px;
+}
+
+body{
+    background-image: url('vecteezy_close-up-dark-minimalist-background-realistic-an_30635360.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+    
+
+
+
+h1 {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+header{
+    background-color:black ;
+    text-align: center;
+}
+
+header nav ul{
+    padding: 10px;
+}
+header nav ul li{
+    color: sandybrown;
+    display: inline;
+    padding: 70px;
+}
+
+header nav ul li a{
+    color: coral;
+    text-decoration: none;
+   
+
+}
+
+header nav ul li a:hover{
+    color: white;    
+}
+
+
+#Home img{
+    height: 500px ;
+    width: 500px;
+    float: left;
+    border-radius: 50%;
+}
+
+
+#Home pre{
+    text-align: center ;
+    
+}
+ 
+
+#move{
+    width:100%;
+    height:700px;
+    background-color: rgb(255, 255, 255,0);
+    overflow:auto auto;
+    white-space: nowrap;
+    padding: 1px;
+}
+#move #slide{
+    display:inline-block;
+}
+
+
+#image{
+    width:100%;
+    height:700px;
+    background-color: rgb(255, 255, 255,0);
+    overflow:auto auto;
+    white-space: nowrap;
+    padding: 1px;
+}
+#image #image-move{
+    display: inline-block;
+}
+
+
+
+#audio #file{
+    display: inline-block;
+    
+}
+
+
+div{
+    padding: 10px;
+}
+
+#Product p{
+    text-align: center;
+}
+
+#Flavors p {
+    text-align: center;
+    font-size: xx-large;
+    background-color: chocolate;
+
+}
+
+#Flavors div ul li{
+    list-style: none;
+        font-family: Arial, sans-serif;
+        margin: 20px;
+}
+#Flavors div h2{
+    color: sandybrown;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 3.5);
+}
+#Flavors div ul li{
+    text-align: center;
+}
+
+#Flavors div{
+    background-color: lightyellow;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 60);
+}
+
+
+
+#youtubelink iframe{
+    margin-right: 16px;
+   
+    
+}
+
+
+
+body{
+    text-align: center;
+}
+
+#Feedback{
+    background-color: lightpink;
+}
+#Feedback input{
+    padding: 5px;
+}
+
+#Feedback label{
+    padding: 10px;
+}
+
+
+
+#Contact{
+    background-color: black;
+    text-align: center;
+}
+#Contact h3{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+#Contact h4{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+#Contact a{
+    color: sandybrown;
+    display: inline-block;
+    text-decoration: none;
+    padding: 30px;
+}
+
+#flavours{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1200px;
+}
+#Contact p{
+    color: sandybrown;
+    display: inline-block;
+  
+    
+}
+#parts{
+    height: 375px;
+    width: 324px;
+    background-color: burlywood;
+}
+
+#Contact p img{
+    text-align: center;
+    
+ 
+}
+
+
+#parts:hover{
+    transition: 0.8s;
+    transform: rotate(5deg);
+}
+
+#Getitnow p{
+    font-size: xx-large ;
+    
+
+}
+
+
+#b{
+    height: 50px;
+    width: 100px;
+}
+#you{
+    background-color: chocolate;
+}
